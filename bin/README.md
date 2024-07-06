@@ -11,4 +11,5 @@ el ella se implemento la lista generica de usuario y amigos
 
 
 # Realizado por:
+Luis Coronel
 Viviana Carchi
